@@ -1,5 +1,5 @@
 # For more information, please refer to https://aka.ms/vscode-docker-python
-FROM python:slim-buster
+FROM python:3.8-alpine
 
 RUN apt-get -y update
 RUN apt-get -y upgrade
