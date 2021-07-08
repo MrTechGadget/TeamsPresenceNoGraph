@@ -1,0 +1,6 @@
+{
+    "tenant": "azure_tenant_guid",
+    "username": "upn_of_user",
+    "password": "password_of_user",
+    "userGuid": "azuread_guid_of_user"
+}
